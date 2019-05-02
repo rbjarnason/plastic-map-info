@@ -60,7 +60,7 @@ class PlasticMapInfo extends GestureEventListeners(PolymerElement) {
         left: 0;
         background-color: white;
         box-sizing: border-box;
-        padding: 12px 28px 12px 12px;
+        padding: 0 0 0 0;
         border-radius: 4px;
         color: black;
         opacity: 0;
